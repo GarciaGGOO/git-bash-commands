@@ -4,7 +4,7 @@
 Se você deseja obter uma cópia local de um repositório já existente no GitHub:
 
 ```sh
-git clone https://github.com/GarciaGGOO/api_bmt_by_IA.git
+git clone https://github.com/GarciaGGOO/NomeDoRepositório.git
 ```
 Esse comando cria uma cópia do repositório na máquina local.
 
@@ -20,7 +20,7 @@ Isso criará um repositório Git local.
 Se o repositório ainda não estiver vinculado ao GitHub:
 
 ```sh
-git remote add origin https://github.com/GarciaGGOO/NomeDoRepositório 
+git remote add origin https://github.com/GarciaGGOO/NomeDoRepositório.git
 ```
 
 ## 4. Verificar o status do repositório
